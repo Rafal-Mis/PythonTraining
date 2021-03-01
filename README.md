@@ -1,2 +1,0 @@
-# PythonTraining
-print('Hello World')
